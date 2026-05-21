@@ -1,10 +1,16 @@
 # Hi there! I'm Karna Vignesh 👋
 
+<p align="center">
+  <a href="https://github.com/igVigneshreddy">
+    <img src="https://readme-typing-svg.demolab.com?font=Outfit&size=24&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=500&lines=Data+Analyst;Database+Developer;Unity+Game+Designer;Python+%26+SQL+Specialist" alt="Typing SVG" />
+  </a>
+</p>
+
 <div align="center">
 
-📊 **Data Analyst** | 🎮 **Game Developer** | 🐍 **Python & SQL Specialist**
-
-[💼 Connect on LinkedIn](http://www.linkedin.com/in/karnavignesh) • [✉️ Email Me](mailto:vigneshreddy139@gmail.com) • [🌐 Explore Portfolio Site](https://igvigneshreddy.github.io/portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/karnavignesh)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vigneshreddy139@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Live_Portfolio-00e5ff?style=for-the-badge&logo=react&logoColor=black)](https://igvigneshreddy.github.io/portfolio/)
 
 </div>
 
@@ -22,7 +28,7 @@ I am a B.Tech Computer Science and Engineering student at **Lovely Professional 
 
 ## 🛠️ Technical Toolkit
 
-<table>
+<table width="100%">
   <tr>
     <td valign="top" width="50%">
       <h3>📊 Data & Analytics</h3>
@@ -90,5 +96,5 @@ I am a B.Tech Computer Science and Engineering student at **Lovely Professional 
 ---
 
 <div align="center">
-  <sub>Let's connect! I am currently seeking internships and entry-level positions in <b>Data Analytics</b> and <b>Game Development</b>.</sub>
+  <sub>Let's connect! I am currently seeking internships and entry-level positions in <b>Data Analytics</b> and <b>Game Development</b>. Feel free to explore my <a href="https://igvigneshreddy.github.io/portfolio/"><b>Live Portfolio Site</b></a>.</sub>
 </div>
